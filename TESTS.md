@@ -1,12 +1,6 @@
 # test 1
 ## setup
-Describe your test setup
+connected to USB and to b018
 ## results
-Describe your results
+USB connection works
 
-
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
